@@ -1,0 +1,131 @@
+body {
+font-family: 'Montserrat', sans-serif;  
+color:#555555;  
+}
+
+/* Adapted from http://fiddle.jshell.net/6cW9u/8/ */
+circle {
+    fill:rgba(32,0,255,0.5); 
+    stroke:rgb(64,0,255);
+    stroke-width:2;
+    
+}
+
+.final-rect {
+    fill:rgba(32,0,255,0.2); 
+    stroke:rgb(64,0,255);
+    stroke-width:2;
+    
+}
+
+.hidden{
+    display:none;
+}
+.red-circle {
+    fill:rgba(255,0,32,0.0); 
+    stroke:rgb(255,0,64);
+    stroke-width:2;
+    opacity:0.4;
+}
+
+.vocab-rect {
+    fill:rgba(255,0,32,0.2); 
+    stroke:rgb(255,0,64);
+    stroke-width:2;
+    opacity:0.4;
+}
+
+.green-circle {
+    fill:rgba(0,255,0,0.5); 
+    stroke:rgb(0,255,0);
+    stroke-width:2;
+    
+}
+
+.circle-removed {
+    fill:rgba(255,0,32,0.5); 
+    stroke:rgb(255,0,64);
+    stroke-width:3;
+}
+text {
+    text-anchor:end;
+    alignment-baseline:baseline;
+    opacity:0.6;
+    pointer-events:all;
+    transition:1s;
+}
+
+text.indicator{
+    text-anchor:start;
+    alignment-baseline:baseline;
+    opacity:0.3;
+    pointer-events:all;
+    transition:1s;
+    fill: #0a0;
+    stroke: #0a0;
+}
+
+text.indicator-blue{
+    text-anchor:start;
+    alignment-baseline:baseline;
+    opacity:0.3;
+    pointer-events:all;
+    transition:1s;
+    fill: #00a;
+    stroke: #00a;
+}
+    
+#intro{
+    max-width:800px;
+}
+
+
+    
+#vote{
+  position:fixed;
+  height: 50px;
+  width: 120px;
+  left:1050px;
+  
+}
+
+path.line {
+fill: none;
+stroke: #666;
+stroke-width: 1.5px;
+}
+ 
+path.area {
+fill: #e7e7e7;
+}
+ 
+/*.axis {
+shape-rendering: crispEdges;
+}*/
+ 
+.x.axis line {
+
+  stroke:#000;
+  stroke-width:2px;
+  stroke-opacity:0.1;
+}
+ 
+.x.axis .minor {
+stroke-opacity: .5;
+}
+ 
+.x.axis path {
+display: none;
+}
+
+.y.axis path {
+display: none;
+}
+
+.y.axis line {
+
+  stroke:#000;
+  stroke-width:2px;
+  stroke-opacity:0.1;
+}
+

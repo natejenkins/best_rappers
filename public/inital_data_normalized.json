@@ -1,0 +1,597 @@
+{
+  "Rakim": {
+    "name": "Rakim",
+    "x": 0,
+    "y": 0.4160840813866219,
+    "votes": 0,
+    "vocab_score": 0.425354612367954
+  },
+  "Dmx": {
+    "name": "Dmx",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.0
+  },
+  "Too-short": {
+    "name": "Too-short",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.05351231160437239
+  },
+  "Drake": {
+    "name": "Drake",
+    "x": 0,
+    "y": 0.4507534703960004,
+    "votes": 0,
+    "vocab_score": 0.09311217696741661
+  },
+  "50-cent": {
+    "name": "50-cent",
+    "x": 0,
+    "y": 0.5545157992400291,
+    "votes": 0,
+    "vocab_score": 0.09613010453880083
+  },
+  "Bone-thugs": {
+    "name": "Bone-thugs",
+    "x": 0,
+    "y": 0.3485178794092792,
+    "votes": 0,
+    "vocab_score": 0.10065640806425047
+  },
+  "Master-p": {
+    "name": "Master-p",
+    "x": 0,
+    "y": 0.6388749357334074,
+    "votes": 0,
+    "vocab_score": 0.12030997067072882
+  },
+  "Salt-n-pepa": {
+    "name": "Salt-n-pepa",
+    "x": 0,
+    "y": 0.25696886246653705,
+    "votes": 0,
+    "vocab_score": 0.12030997067072882
+  },
+  "Petey-pablo": {
+    "name": "Petey-pablo",
+    "x": 0,
+    "y": 0.7428340533161562,
+    "votes": 0,
+    "vocab_score": 0.12181834662479427
+  },
+  "Juvenile": {
+    "name": "Juvenile",
+    "x": 0,
+    "y": 0.1538970670795487,
+    "votes": 0,
+    "vocab_score": 0.1257568185235621
+  },
+  "Jeezy": {
+    "name": "Jeezy",
+    "x": 0,
+    "y": 0.31675393134259555,
+    "votes": 0,
+    "vocab_score": 0.15416907236759886
+  },
+  "Wiz-khalifa": {
+    "name": "Wiz-khalifa",
+    "x": 0,
+    "y": 0.41997464793726397,
+    "votes": 0,
+    "vocab_score": 0.14903495094016028
+  },
+  "Lil-b": {
+    "name": "Lil-b",
+    "x": 0,
+    "y": 0.5239831104439862,
+    "votes": 0,
+    "vocab_score": 0.14993668465549012
+  },
+  "Kanye-west": {
+    "name": "Kanye-west",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.2049577249129039
+  },
+  "Lil-wayne": {
+    "name": "Lil-wayne",
+    "x": 0,
+    "y": 0.6023339853560813,
+    "votes": 0,
+    "vocab_score": 0.17715328897085617
+  },
+  "Missy-elliot": {
+    "name": "Missy-elliot",
+    "x": 0,
+    "y": 0.3778196044132682,
+    "votes": 0,
+    "vocab_score": 0.19952968767212445
+  },
+  "Gucci-mane": {
+    "name": "Gucci-mane",
+    "x": 0,
+    "y": 0.6838370258307381,
+    "votes": 0,
+    "vocab_score": 0.20284153105684957
+  },
+  "2pac": {
+    "name": "2pac",
+    "x": 0,
+    "y": 0.5664333370760621,
+    "votes": 0,
+    "vocab_score": 0.22854858375489676
+  },
+  "Snoop": {
+    "name": "Snoop",
+    "x": 0,
+    "y": 0.3068063492438703,
+    "votes": 0,
+    "vocab_score": 0.2297442332835675
+  },
+  "Ugk": {
+    "name": "Ugk",
+    "x": 0,
+    "y": 0.4069735901239237,
+    "votes": 0,
+    "vocab_score": 0.24093302046582835
+  },
+  "Run-dmc": {
+    "name": "Run-dmc",
+    "x": 0,
+    "y": 0.6562588274227767,
+    "votes": 0,
+    "vocab_score": 0.24939779589004582
+  },
+  "Jadakiss": {
+    "name": "Jadakiss",
+    "x": 0,
+    "y": 0.32808080748388163,
+    "votes": 0,
+    "vocab_score": 0.27026581863724874
+  },
+  "Scarface": {
+    "name": "Scarface",
+    "x": 0,
+    "y": 0.46675865899998226,
+    "votes": 0,
+    "vocab_score": 0.27479212216269844
+  },
+  "Insane-clown-posse": {
+    "name": "Insane-clown-posse",
+    "x": 0,
+    "y": 0.5692897285733702,
+    "votes": 0,
+    "vocab_score": 0.28174734596959716
+  },
+  "Nicki-minaj": {
+    "name": "Nicki-minaj",
+    "x": 0,
+    "y": 0.7018612196174143,
+    "votes": 0,
+    "vocab_score": 0.28658755158369487
+  },
+  "T-i-": {
+    "name": "T-i-",
+    "x": 0,
+    "y": 0.26317391278654034,
+    "votes": 0,
+    "vocab_score": 0.30261536871680006
+  },
+  "Geto-boys": {
+    "name": "Geto-boys",
+    "x": 0,
+    "y": 0.3820546989959637,
+    "votes": 0,
+    "vocab_score": 0.30563329628818425
+  },
+  "Three-six-mafia": {
+    "name": "Three-six-mafia",
+    "x": 0,
+    "y": 0.7941991643865569,
+    "votes": 0,
+    "vocab_score": 0.30563329628818425
+  },
+  "Biz-markie": {
+    "name": "Biz-markie",
+    "x": 0,
+    "y": 0.39387384246263674,
+    "votes": 0,
+    "vocab_score": 0.3490940397752743
+  },
+  "Ice-cube": {
+    "name": "Ice-cube",
+    "x": 0,
+    "y": 0.5002462223062695,
+    "votes": 0,
+    "vocab_score": 0.3497794514519853
+  },
+  "Camron": {
+    "name": "Camron",
+    "x": 0,
+    "y": 0.2901608585425814,
+    "votes": 0,
+    "vocab_score": 0.3497794514519853
+  },
+  "Nelly": {
+    "name": "Nelly",
+    "x": 0,
+    "y": 0.6937846079294634,
+    "votes": 0,
+    "vocab_score": 0.3624766145883116
+  },
+  "Puff-daddy": {
+    "name": "Puff-daddy",
+    "x": 0,
+    "y": 0.19595253431983778,
+    "votes": 0,
+    "vocab_score": 0.3672968339271021
+  },
+  "Game": {
+    "name": "Game",
+    "x": 0,
+    "y": 0.7977921840004256,
+    "votes": 0,
+    "vocab_score": 0.36337834830364135
+  },
+  "Royce-da-5-9": {
+    "name": "Royce-da-5-9",
+    "x": 0,
+    "y": 0.09194407181311565,
+    "votes": 0,
+    "vocab_score": 0.3676107360157501
+  },
+  "Ice-t": {
+    "name": "Ice-t",
+    "x": 0,
+    "y": 0.3341871679559382,
+    "votes": 0,
+    "vocab_score": 0.38726312295897514
+  },
+  "Lupe-fiasco": {
+    "name": "Lupe-fiasco",
+    "x": 0,
+    "y": 0.9003232535738135,
+    "votes": 0,
+    "vocab_score": 0.3703335721105401
+  },
+  "Eminem": {
+    "name": "Eminem",
+    "x": 0,
+    "y": -5.551115123125783e-17,
+    "votes": 0,
+    "vocab_score": 0.38695039653358043
+  },
+  "Jay-z": {
+    "name": "Jay-z",
+    "x": 0,
+    "y": 0.6120357292706997,
+    "votes": 0,
+    "vocab_score": 0.39057496634370026
+  },
+  "Clipse": {
+    "name": "Clipse",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.3930050622884027
+  },
+  "Cypress-hill": {
+    "name": "Cypress-hill",
+    "x": 0,
+    "y": 0.08746166165337993,
+    "votes": 0,
+    "vocab_score": 0.4093267952348487
+  },
+  "Krs-one": {
+    "name": "Krs-one",
+    "x": 0,
+    "y": 0.1906832646838083,
+    "votes": 0,
+    "vocab_score": 0.41446091666228735
+  },
+  "Tyga": {
+    "name": "Tyga",
+    "x": 0,
+    "y": 0.6868902060667663,
+    "votes": 0,
+    "vocab_score": 0.41929994661313175
+  },
+  "Brand-nubian": {
+    "name": "Brand-nubian",
+    "x": 0,
+    "y": 0.7907509292801551,
+    "votes": 0,
+    "vocab_score": 0.4217300425578342
+  },
+  "Mos-def": {
+    "name": "Mos-def",
+    "x": 0,
+    "y": 0.28892989475052744,
+    "votes": 0,
+    "vocab_score": 0.4280786241259973
+  },
+  "Tribe-called-quest": {
+    "name": "Tribe-called-quest",
+    "x": 0,
+    "y": 0.5295972035906558,
+    "votes": 0,
+    "vocab_score": 0.4295870000800627
+  },
+  "Fat-joe": {
+    "name": "Fat-joe",
+    "x": 0,
+    "y": 0.8767351980002009,
+    "votes": 0,
+    "vocab_score": 0.44500817497443235
+  },
+  "Brother-ali": {
+    "name": "Brother-ali",
+    "x": 0,
+    "y": 0.11504163293286129,
+    "votes": 0,
+    "vocab_score": 0.449240562686541
+  },
+  "Lil-kim": {
+    "name": "Lil-kim",
+    "x": 0,
+    "y": 1.0,
+    "votes": 0,
+    "vocab_score": 0.35853814268954365
+  },
+  "Public-enemy": {
+    "name": "Public-enemy",
+    "x": 0,
+    "y": 0.9576460993871775,
+    "votes": 0,
+    "vocab_score": 0.4190060307997908
+  },
+  "Talib-kweli": {
+    "name": "Talib-kweli",
+    "x": 0,
+    "y": 0.011033170426139216,
+    "votes": 0,
+    "vocab_score": 0.45014229640187087
+  },
+  "Twista": {
+    "name": "Twista",
+    "x": 0,
+    "y": 0.21185903307587295,
+    "votes": 0,
+    "vocab_score": 0.46434783549226255
+  },
+  "Ll-cool-j": {
+    "name": "Ll-cool-j",
+    "x": 0,
+    "y": 0.3476314436492787,
+    "votes": 0,
+    "vocab_score": 0.4622316416362082
+  },
+  "Mobb-deep": {
+    "name": "Mobb-deep",
+    "x": 0,
+    "y": 0.44686319932394497,
+    "votes": 0,
+    "vocab_score": 0.4746348889591936
+  },
+  "Big-daddy-kane": {
+    "name": "Big-daddy-kane",
+    "x": 0,
+    "y": 0.5507729719827205,
+    "votes": 0,
+    "vocab_score": 0.4764371807265999
+  },
+  "Ludacris": {
+    "name": "Ludacris",
+    "x": 0,
+    "y": 0.6540427380227756,
+    "votes": 0,
+    "vocab_score": 0.4812773863406976
+  },
+  "Gang-starr": {
+    "name": "Gang-starr",
+    "x": 0,
+    "y": 0.7576573275734708,
+    "votes": 0,
+    "vocab_score": 0.4776528165305778
+  },
+  "Goodie-mob": {
+    "name": "Goodie-mob",
+    "x": 0,
+    "y": 0.9135725133999539,
+    "votes": 0,
+    "vocab_score": 0.48368749601009287
+  },
+  "Tech-nine": {
+    "name": "Tech-nine",
+    "x": 0,
+    "y": 0.14399853442621008,
+    "votes": 0,
+    "vocab_score": 0.5077497958166844
+  },
+  "Busta-rhymes": {
+    "name": "Busta-rhymes",
+    "x": 0,
+    "y": 0.27376179698257264,
+    "votes": 0,
+    "vocab_score": 0.49759911928714373
+  },
+  "Wale": {
+    "name": "Wale",
+    "x": 0,
+    "y": 0.3740767771559595,
+    "votes": 0,
+    "vocab_score": 0.5084939906560636
+  },
+  "De-la-soul": {
+    "name": "De-la-soul",
+    "x": 0,
+    "y": 0.47424410667958894,
+    "votes": 0,
+    "vocab_score": 0.5196627915630172
+  },
+  "Method-man": {
+    "name": "Method-man",
+    "x": 0,
+    "y": 0.5773169953373479,
+    "votes": 0,
+    "vocab_score": 0.5251096394158505
+  },
+  "Common": {
+    "name": "Common",
+    "x": 0,
+    "y": 0.6798480649107359,
+    "votes": 0,
+    "vocab_score": 0.5320660388860027
+  },
+  "Xzibit": {
+    "name": "Xzibit",
+    "x": 0,
+    "y": 0.22658391296382752,
+    "votes": 0,
+    "vocab_score": 0.5344761485553979
+  },
+  "Raekwon": {
+    "name": "Raekwon",
+    "x": 0,
+    "y": 0.7818363403204169,
+    "votes": 0,
+    "vocab_score": 0.5402368984968793
+  },
+  "Das-efx": {
+    "name": "Das-efx",
+    "x": 0,
+    "y": 0.3062644415159233,
+    "votes": 0,
+    "vocab_score": 0.561084934968775
+  },
+  "Beastie-boys": {
+    "name": "Beastie-boys",
+    "x": 0,
+    "y": 0.4091403345999515,
+    "votes": 0,
+    "vocab_score": 0.5671396007235973
+  },
+  "Nas": {
+    "name": "Nas",
+    "x": 0,
+    "y": 0.5130504027373136,
+    "votes": 0,
+    "vocab_score": 0.5689430681542569
+  },
+  "Mf-doom": {
+    "name": "Mf-doom",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.6154993329874533
+  },
+  "E-40": {
+    "name": "E-40",
+    "x": 0,
+    "y": 0.5796808240306826,
+    "votes": 0,
+    "vocab_score": 0.6025082540377862
+  },
+  "Outkast": {
+    "name": "Outkast",
+    "x": 0,
+    "y": 0.3619621551026197,
+    "votes": 0,
+    "vocab_score": 0.6040166299918515
+  },
+  "Redman": {
+    "name": "Redman",
+    "x": 0,
+    "y": 0.623756182889426,
+    "votes": 0,
+    "vocab_score": 0.6399919255447759
+  },
+  "Kool-g-rap": {
+    "name": "Kool-g-rap",
+    "x": 0,
+    "y": 0.5314191245560435,
+    "votes": 0,
+    "vocab_score": 0.6590376702492654
+  },
+  "Blackalicious": {
+    "name": "Blackalicious",
+    "x": 0,
+    "y": 0.45050733673330695,
+    "votes": 0,
+    "vocab_score": 0.6850398144239068
+  },
+  "Killah-priest": {
+    "name": "Killah-priest",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.7627311691959298
+  },
+  "Ghostface-killah": {
+    "name": "Ghostface-killah",
+    "x": 0,
+    "y": 0.3808237352039098,
+    "votes": 0,
+    "vocab_score": 0.7739199563781907
+  },
+  "Roots": {
+    "name": "Roots",
+    "x": 0,
+    "y": 0.5809117878227366,
+    "votes": 0,
+    "vocab_score": 0.7826786476157491
+  },
+  "Wu-tang": {
+    "name": "Wu-tang",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.8060343738070693
+  },
+  "Rza": {
+    "name": "Rza",
+    "x": 0,
+    "y": 0.5809117878227366,
+    "votes": 0,
+    "vocab_score": 0.8297051777502908
+  },
+  "Cunninlynguists": {
+    "name": "Cunninlynguists",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.8511022489615073
+  },
+  "Canibus": {
+    "name": "Canibus",
+    "x": 0,
+    "y": 0.3780657380759616,
+    "votes": 0,
+    "vocab_score": 0.8548055882096024
+  },
+  "Kool-keith": {
+    "name": "Kool-keith",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.8958162494766829
+  },
+  "Gza": {
+    "name": "Gza",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 0.9404914531044977
+  },
+  "Aesop": {
+    "name": "Aesop",
+    "x": 0,
+    "y": 0.48094163115998984,
+    "votes": 0,
+    "vocab_score": 1.0
+  }
+}
